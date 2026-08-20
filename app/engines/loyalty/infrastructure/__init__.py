@@ -1,0 +1,1 @@
+"""Loyalty infrastructure layer."""

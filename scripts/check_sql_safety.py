@@ -1,0 +1,1 @@
+"""Placeholder SQL safety checker."""
