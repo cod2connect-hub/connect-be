@@ -2,6 +2,10 @@
 
 This is a sequencing and definition-of-done guide. It intentionally contains no starter implementation; [01-architecture.md](01-architecture.md) remains the design authority.
 
+For the executable scope, component dependencies, detailed work packages, security gates, and project-completion definition, use the [phase-wise implementation playbook](implementation/README.md). This file remains the short roadmap.
+
+Use the playbook's [priority build flow](implementation/05-priority-build-flow.md) as the authoritative module sequence. It prevents later capabilities from being built on unfinished tenancy, access, data, event, and revenue foundations.
+
 ## Phase 0: repository guardrails
 
 - Confirm one root `app/` package and one migration tree.

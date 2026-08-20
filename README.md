@@ -13,6 +13,7 @@ The repository is a FastAPI modular monolith. The only application package is ro
 - [Testing strategy](docs/04-testing-strategy.md)
 - [Development workflow](docs/05-development-workflow.md)
 - [Implementation guide](docs/backend-implementation-guide.md)
+- [Phase-wise implementation playbook](docs/implementation/README.md)
 - [Original niche feature breakdown](docs/niche-feature-breakdown.md)
 
 ## Repository shape
